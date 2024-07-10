@@ -18,4 +18,4 @@ This project involves developing an application where users can record and rate 
 
 **Example Output**
 
-![alt text](first.png)
+![alt text](png/first.png)
